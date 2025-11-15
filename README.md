@@ -10,7 +10,7 @@ It displays a collection of images in a grid layout with hover effects.
 - Hover zoom effect on images
 - Click to open lightbox
 - Next/Prev buttons for navigation
-- Image category filters (Nature, Animals, Travel, etc.)
+- Image category filters (Nature, Animals, food, etc.)
 
 ### Tech Stack
 - HTML
