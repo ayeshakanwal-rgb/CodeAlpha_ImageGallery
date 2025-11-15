@@ -60,5 +60,5 @@ function filterImages(category) {
             item.style.display = 'none';
         }
     });
-    attachClickEvents(); // reattach click events after filtering
+    attachClickEvents(); 
 }
